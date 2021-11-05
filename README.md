@@ -1,17 +1,17 @@
-#Standard Deviation Calculator
+##Standard Deviation Calculator
 
-## Formula & info: 
+### Formula & info: 
 - https://en.wikipedia.org/wiki/Standard_deviation
 - https://www.investopedia.com/terms/s/standarddeviation.asp
 
 
-## How to test it:
+### How to test it:
 - ```staticcheck ./...```
 - ```go vet ./...```
 - ```golint ./...```
 - ```go test ./...```
 
-## Docker
+### Docker
 - ```docker-compose up```
 - ```make docker```
 - ```make test```
