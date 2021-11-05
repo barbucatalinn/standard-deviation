@@ -1,5 +1,4 @@
-
-##Standard Deviation Calculator
+# Standard Deviation Calculator
 
 ### Formula & info: 
 - https://en.wikipedia.org/wiki/Standard_deviation
